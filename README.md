@@ -21,12 +21,12 @@ This is not a claim to have solved or partially solved any Millennium Problem. T
 
 | Notebook | Problem | Status |
 |----------|---------|--------|
-| [01-riemann.py](01-riemann.py) | Riemann Hypothesis | Strongest connection — G(1)=1/2 is the critical line, digit spacing analysis |
-| [02-navier-stokes.py](02-navier-stokes.py) | Navier-Stokes | Strong connection — discrete energy levels may prevent blowup |
-| [03-yang-mills.py](03-yang-mills.py) | Yang-Mills Mass Gap | Moderate — product identity as discrete partition function |
-| [04-p-vs-np.py](04-p-vs-np.py) | P vs NP | Speculative — trinary logic and complexity |
-| [05-bsd.py](05-bsd.py) | Birch & Swinnerton-Dyer | Weak — elliptic curve connection via modular forms |
-| [06-hodge.py](06-hodge.py) | Hodge Conjecture | Weak — algebraic cycle connection via Cayley trees |
+| [01-riemann.py](01-riemann.py) | Riemann Hypothesis | **Strongest** — G(1)=1/2 is the critical line, G-zeta function, GUE analysis |
+| [02-navier-stokes.py](02-navier-stokes.py) | Navier-Stokes | **Strong** — discrete spectrum prevents blowup, 1/(2e) irreducible gap |
+| [03-yang-mills.py](03-yang-mills.py) | Yang-Mills Mass Gap | **Moderate** — mass gap = 1/2, Cayley trees in strong coupling |
+| [04-p-vs-np.py](04-p-vs-np.py) | P vs NP | **Speculative** — radix economy, binary-ternary crossover |
+| [05-bsd.py](05-bsd.py) | Birch & Swinnerton-Dyer | **Weak** — shared counting structures, central binomials, Hasse invariant |
+| [06-hodge.py](06-hodge.py) | Hodge Conjecture | **Weak** — Cayley trees, Kontsevich formula, intersection theory |
 
 ## Running
 
