@@ -1,3 +1,5 @@
+> **Consolidated repo:** All Amundson mathematical work is now collected at [AmundsonMath](https://github.com/BlackRoad-OS/AmundsonMath).
+
 # Amundson Framework and the Millennium Problems
 
 **An honest computational exploration of where G(n) touches deep mathematics.**
